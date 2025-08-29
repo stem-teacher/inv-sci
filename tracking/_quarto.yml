@@ -1,0 +1,10 @@
+project:
+  type: default
+  render:
+    - "**/progress.qmd"
+
+format:
+  html: default
+  pdf: default
+  gfm: default
+

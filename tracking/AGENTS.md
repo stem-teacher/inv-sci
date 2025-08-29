@@ -17,7 +17,7 @@
 - Files: one `progress.qmd` per group directory; directory names use kebab-case (e.g., `new-group/`).
 - Front matter: keep consistent with existing docs:
   - `title: "Study Progress — <group>"`, `date: last-modified`, `format: [html, pdf]`, `toc: true`, `number-sections: false`.
-- Content: use `#`/`##` headings; include "Test Attempts" and "Notes" sections; keep the results table columns and order consistent.
+- Content: use `#`/`##` headings; include "Test Attempts" and "Notes" sections; under Notes include `### Pacing` (speed, accuracy trend, next action) and `### Reflection` (brief student reflection). Keep the results table columns and order consistent.
 
 ## Testing Guidelines
 - No automated tests. Validate by:

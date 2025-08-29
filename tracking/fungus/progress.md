@@ -5,6 +5,8 @@
 - [Study Progress](#study-progress)
   - [Test Attempts](#test-attempts)
   - [Notes](#notes)
+    - [Pacing](#pacing)
+    - [Reflection](#reflection)
 
 # Study Progress
 
@@ -19,3 +21,15 @@
 ## Notes
 
 - Add observations or follow-ups here.
+
+### Pacing
+
+- Speed: fast/steady/slow; time vs target (e.g., 20 min vs 40 min).
+- Accuracy trend: e.g., 13/15 → 10/15.
+- Next action: e.g., review topics X; aim for 35–45 min.
+
+### Reflection
+
+- What improved?
+- What was challenging?
+- What will I change next time?

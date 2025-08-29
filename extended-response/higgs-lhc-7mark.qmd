@@ -1,0 +1,52 @@
+---
+title: "Investigating Science - Higgs Boson and the LHC"
+subtitle: "Extended response (7 marks)"
+format:
+  html: default
+  pdf: default
+  gfm: default
+number-sections: false
+toc: false
+editor: visual
+---
+
+**Question — 7 marks**
+
+Evaluate how the discovery of the Higgs boson at the Large Hadron Collider (LHC) illustrates the development and verification of scientific models. In your response, refer to predictions from the Standard Model, data collection and analysis (validity and reliability), uncertainty and error, large-scale collaboration and peer review, and the relationship between science and technology. [7 marks]
+
+Outcomes addressed (Investigating Science Stage 6):
+
+- INS11/12-1: Develops and evaluates questions and hypotheses for scientific investigation
+- INS11/12-3: Conducts investigations to collect valid and reliable data and information
+- INS11/12-4: Selects and processes qualitative and quantitative data and information
+- INS11/12-5: Analyses and evaluates primary and secondary data and information
+- INS11-10: Engages with modelling to predict and simplify scientific processes
+- INS11-11: Describes and assesses how scientific explanations, laws and theories develop
+- INS12-13: Explains how science drives the development of technologies
+- INS12-15: Evaluates the implications of ethical, social, economic and political influences on science
+
+::: {.pagebreak}
+:::
+
+**Sample Response**
+
+The Standard Model predicted a scalar field giving mass to fundamental particles, implying a Higgs boson with specific properties. This prediction guided experimental design at the LHC, where high-energy proton-proton collisions could produce rare Higgs events. To ensure validity, detectors (ATLAS and CMS) were engineered to measure multiple independent decay channels (for example, H -> gamma gamma and H -> ZZ -> 4l), using well-understood calibration processes and control samples. Reliability was addressed through repeated runs at different centre-of-mass energies, redundant sub-detectors, and cross-checks between two independent collaborations.
+
+Analysts reduced uncertainty by modelling backgrounds, blind analyses to prevent bias, and applying rigorous statistical methods (profile likelihoods) to estimate parameters and systematic errors. The observed excess near 125 GeV, with discovery-level significance (about 5 sigma), provided strong evidence that the model's prediction matched reality. This process exemplifies how models generate testable predictions that can be supported or constrained by data.
+
+The LHC also shows how science and technology co-evolve: advances in superconducting magnets, ultra-high vacuum, trigger systems and distributed computing (Grid) were necessary to test the model at all. Findings underwent internal review and external peer review, with ATLAS and CMS independently confirming results before publication, strengthening confidence. Ethical and social dimensions included open data policies, authorship across large collaborations and responsible communication of uncertainty. Overall, the discovery demonstrates the iterative refinement of models through prediction, measurement and critical evaluation.
+
+**Marking Guidelines (7 marks)**
+
+- 6–7 marks: Comprehensive, well-structured evaluation directly addressing all cues. Clearly links Standard Model predictions to LHC experimental design; explains how validity, reliability and uncertainty were managed (e.g., multiple channels, redundancy, blind/statistical methods, 5σ). Insightfully discusses collaboration, peer review and science–technology interplay; may acknowledge ethical/social considerations. Accurate terminology; coherent communication.
+- 4–5 marks: Sound explanation addressing most cues with minor omissions or limited depth. Correctly describes prediction–test cycle and at least two of validity/reliability/uncertainty strategies; mentions collaboration/peer review or tech–science links. Mostly accurate with occasional lapses; generally clear.
+- 2–3 marks: Basic response with some relevant ideas but superficial treatment. Mentions the Higgs/LHC and at least one of prediction, data/uncertainty, or collaboration; limited or generic examples; uneven accuracy or clarity.
+- 0–1 mark: Fragmented or incorrect response showing little understanding; may include isolated facts without linkage to the question.
+
+Notes for marking alignment to outcomes:
+
+- INS11-10, INS11/12-1: Identifies model-based predictions and evaluative questioning (e.g., hypothesised Higgs mass range, decay channels).
+- INS11/12-3, INS11/12-4, INS11/12-5: Describes collection, processing and analysis (calibration, background modelling, uncertainty estimation, significance levels).
+- INS11-11: Explains how evidence from independent experiments refined/confirmed theoretical understanding.
+- INS12-13: Articulates enabling technologies (superconducting magnets, triggers, computing) and feedback to theory.
+- INS12-15: Mentions ethical/social aspects (collaboration, authorship, openness, communicating uncertainty).
